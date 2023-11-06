@@ -16,6 +16,7 @@ input,select,button{
     height: 40px;
     border-radius: 5px;
     border: 1px solid var(--gray-300, #D1D5DB);
+    cursor: pointer;
 }
 input {
     padding: 0;
